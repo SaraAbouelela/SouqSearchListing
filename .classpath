@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/httpclient5-cache-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/httpclient5-fluent-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/httpclient5-testing-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/httpclient5-win-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/httpcore5-h2-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/httpcore5-reactive-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/httpcore5-testing-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/jna-5.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/jna-platform-5.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/rxjava-2.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sara/Downloads/Worldofss/Automation/httpcomponents-client-5.0.3/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
